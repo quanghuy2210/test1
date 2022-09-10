@@ -34,7 +34,7 @@
 .menu-scroll{
     width: 100%;
     padding: 20px 50px;
-    background-image: url(/public/assets/img/bg-header.png);
+    background-image: url(./public/assets/img/bg-header.png);
     position: fixed;
     top: 0;
     left: 0;
